@@ -27,6 +27,6 @@
   <h6>PS:Tive que adicionar o arquivo .env para configurar as variáveis de ambiente, com o nome de my_password como o caso da senha mysql e antes disso adicionei a gem 'dotenv-rails' no gemfile juntamente com o bundle install</h6>
   
  <h2>Depois desse processo é só acessard o seguinte link local </h2>
- <code>localhost:3000/Schools</code>
+ <code>localhost:3000/schools</code>
  
  

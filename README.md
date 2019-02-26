@@ -1,6 +1,5 @@
 <h2>Ao baixar use os seguintes comandos</h2>
 <code>bundle install</code>
-<code>rake db:create</code>
 <code><rake db:migrate</code>
  
 

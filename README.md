@@ -1,7 +1,10 @@
 <h2>Ao baixar use os seguintes comandos</h2>
 <code>bundle install</code>
 <code>rake db:create</code>
-<code>rake db:migrate</code>
+<code><rake db:migrate</code>
+ 
+ <h4>Gere também o scaffold para name:string, email:string e phone:integer</h4>
+
 <h3>Insira sua senha em .env para que tenha acesso ao banco de dados mysql</h3>
 
 <h1>CRUD Simples usando Ruby on Rails</h1>
